@@ -1,5 +1,6 @@
 # IDeas
 An online brainstorming jQuery website.
+<a href="http://triosdevelopers.com/~M.Orlinski/ideas.html">go</a>
 
 <ul>
 <li>Incorporate plain text, html, css etc...
